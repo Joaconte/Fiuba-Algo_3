@@ -1,3 +1,6 @@
 [submodule "v1-TP"]
 	path = v1-TP
 	url = https://github.com/Joaconte/Fiuba-Algo_3-v1-TP
+[submodule "v2-TP"]
+	path = v2-TP
+	url = https://github.com/Joaconte/Fiuba-Algo_3-v2-TP
